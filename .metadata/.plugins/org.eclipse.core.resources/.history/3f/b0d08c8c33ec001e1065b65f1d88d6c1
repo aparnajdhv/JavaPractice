@@ -1,0 +1,29 @@
+package Assignments;
+
+public class Animals implements Carnivorous,Omnivorous,Herbivorous {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+	@Override
+	public void HerbivorousAnimals() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void OmnivourousAnimals() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void CarnivorousAnimal() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

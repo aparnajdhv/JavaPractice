@@ -1,0 +1,17 @@
+package Assignments;
+
+import java.util.Scanner;
+
+public class ExceptionHandling {
+
+	public static void main(String[] args) {
+		
+		String arr[]= {"Apple","Banana","Kiwi","Custured Apple","Orange","Pineapple","Watermelon","Chikku","Strawberry","Musk Melon"};
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Please enter 0 to 9 index value to fetch Data from array.");
+		int index=sc.nextInt();
+		System.out.println(arr[index]);
+		sc.close();
+	}
+
+}

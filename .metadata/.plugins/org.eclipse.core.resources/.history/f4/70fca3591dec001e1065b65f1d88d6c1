@@ -1,0 +1,22 @@
+package Assignments;
+
+import java.util.Scanner;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+		
+		Scanner rev = new Scanner(System.in);
+		System.out.println("Enter String for reverse output :");
+		String str=rev.nextLine();
+		
+		for(int i=str.length();i<=str.length()&& i>=0;i--)
+		{
+//			System.out.println(i);
+			String result=str.charAt(i);
+			System.out.println(result);
+		}
+
+	}
+
+}

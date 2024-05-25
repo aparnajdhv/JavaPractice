@@ -1,0 +1,12 @@
+package Assignments;
+
+import java.util.Collections;
+
+public class ArraySort {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

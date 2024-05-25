@@ -1,0 +1,20 @@
+package Assignments;
+
+public class UPIPayment implements Amazon,Flipkart{
+
+	public static void main(String[] args) {
+		
+		@Override
+		public void amazonCart() {
+			
+		}
+		
+		@Override
+		public void flipkartCart() {
+			
+		}
+	}
+
+	
+
+}

@@ -1,0 +1,26 @@
+package Assignments;
+
+public class Animals implements Carnivorous,Omnivorous,Herbivorous {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+	@Override
+	public void HerbivorousAnimals() {		
+		
+	}
+
+	@Override
+	public void OmnivourousAnimals() {
+		
+	}
+
+	@Override
+	public void CarnivorousAnimal() {
+		
+	}
+
+}

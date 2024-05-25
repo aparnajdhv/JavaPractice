@@ -1,0 +1,11 @@
+package Assignments;
+
+public class Animals impliments Carnivorous,Omnivorous,Herbivorous {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javaCodeDemo1.runtime_parameters.java&apos; to &apos;Runtime_parameters.java&apos;&#x0D;&#x0A;- Original project: &apos;FirstCode&apos;&#x0D;&#x0A;- Original element: &apos;javaCodeDemo1.runtime_parameters.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javaCodeDemo1.Runtime_parameters.java&apos;" description="Rename compilation unit &apos;runtime_parameters.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javaCodeDemo1{runtime_parameters.java" name="Runtime_parameters.java" references="false" stamp="1710243090285" version="1.0"/>
+</session>

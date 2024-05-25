@@ -1,0 +1,12 @@
+package Assignments;
+import java.util.ArrayList;
+
+public class AsscendingOrderArraylist {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Interger> num=new ArrayList<Interger>();
+
+	}
+
+}

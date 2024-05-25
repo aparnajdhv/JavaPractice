@@ -1,0 +1,32 @@
+package Assignments;
+
+public class Animals implements Carnivorous,Omnivorous,Herbivorous {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+	@Override
+	public void HerbivorousAnimals() {		
+		System.out.println("This is Herbivorous Interface group : Animals Under this group are :");
+		System.out.println("Camel");
+		System.out.println("Elephant");
+		System.out.println("Sheep");
+	}
+
+	@Override
+	public void OmnivourousAnimals() {
+		System.out.println("This is Omnivorous Interface group : Animals Under this group are :");
+		System.out.println("Camel");
+		System.out.println("Elephant");
+		System.out.println("Sheep");
+	}
+
+	@Override
+	public void CarnivorousAnimal() {
+		
+	}
+
+}
